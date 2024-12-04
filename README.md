@@ -9,7 +9,6 @@ This project involves scraping financial tables from the Yahoo Finance website u
 The scraper can extract and organize the following types of data (depending on the table):  
 - **Stock Prices**: Open, close, high, and low prices.  
 - **Historical Data**: Daily, weekly, or monthly stock performance.  
-- **Key Financial Metrics**: Market cap, P/E ratio, dividend yield, and more.  
 
 The extracted data structure will vary based on the table being scraped, ensuring flexibility for different use cases.  
 
